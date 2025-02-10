@@ -1,4 +1,4 @@
-# Draw sleep timeline graph in Compose
+# Draw custom auth screen in Compose
 
 Create a custom auth screen.
 
